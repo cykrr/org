@@ -1,0 +1,21 @@
+#gameCanvas {
+    position: relative;
+    top: 0;
+    background-color:transparent;
+
+}
+p {
+    background-color: transparent
+}
+
+.label {
+				font-size: 16px;
+                                font-family: Georgia;
+                                color: white;
+                                text-align: center;
+                                max-width: 80px;
+                                overflow-x: scroll;
+                                white-space: initial;
+                                border-style: none;
+
+			}
